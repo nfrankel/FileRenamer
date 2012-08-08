@@ -1,0 +1,1 @@
+start javaw -jar -Dswing.defaultlaf=javax.swing.plaf.nimbus.NimbusLookAndFeel lib\filerenamer-gui-${project.version}.jar
